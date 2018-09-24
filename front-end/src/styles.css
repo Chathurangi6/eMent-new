@@ -1,0 +1,10 @@
+/* key properties */
+:root {
+    /* colors */
+    --main-bg-color: #efefff;
+}
+
+/* body element */
+body {
+    background-color: var(--main-bg-color);
+}
